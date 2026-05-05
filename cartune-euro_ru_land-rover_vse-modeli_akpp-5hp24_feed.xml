@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-05 21:50">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3032092054">АКПП 5HP24 для Land Rover</category>
+      <category id="3148955804">АКПП 6HP26X для Land Rover</category>
+    </categories>
+    <offers>
+      <offer id="290054269016204147056293324902089374258" available="true" type="vendor.model">
+        <name>АКПП 5HP24 Land Rover Range Rover 2002 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da113/</url>
+        <price>79999</price>
+        <oldprice>87998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3032092054</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_515.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_516.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_517.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_518.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_519.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Land Rover</vendor>
+        <model>5HP24 Range Rover 2002</model>
+        <description>Контрактная АКПП 5HP24 для Land Rover Range Rover 2002 L322 M62B44. Оригинальный пробег 116864 км. Есть аукционный лист из Японии. Номер TGD000150</description>
+        <sales_notes>Пробег 116864 км, аукционный лист из Японии</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Land Rover</custom_label_1>
+        <custom_label_2>АКПП 5HP24</custom_label_2>
+        <custom_label_3>Контрактный</custom_label_3>
+        <param name="Кузов">L322</param>
+        <param name="Двигатель">M62B44</param>
+        <param name="Год">2002</param>
+        <param name="Номер по производителю">TGD000150</param>
+        <param name="Кросс-номера">7508713</param>
+        <param name="Пробег">116864 км</param>
+      </offer>
+      <offer id="219713730317225333605162989873325577870" available="true" type="vendor.model">
+        <name>АКПП 5HP24 Land Rover Range Rover 2002 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da113/</url>
+        <price>79999</price>
+        <oldprice>87998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3032092054</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_515.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_516.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_517.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_518.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_519.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Land Rover</vendor>
+        <model>5HP24 Range Rover 2002</model>
+        <description>Контрактная АКПП 5HP24 для Land Rover Range Rover 2002 L322 M62B44. Оригинальный пробег 116864 км. Есть аукционный лист из Японии. Номер TGD000150</description>
+        <sales_notes>Пробег 116864 км, аукционный лист из Японии</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Land Rover</custom_label_1>
+        <custom_label_2>АКПП 5HP24</custom_label_2>
+        <custom_label_3>Контрактный</custom_label_3>
+        <param name="Кузов">L322</param>
+        <param name="Двигатель">M62B44</param>
+        <param name="Год">2002</param>
+        <param name="Номер по производителю">TGD000150</param>
+        <param name="Кросс-номера">7508713</param>
+        <param name="Пробег">116864 км</param>
+      </offer>
+      <offer id="5867557590449802134503897530759436735" available="true" type="vendor.model">
+        <name>АКПП 5HP24 Land Rover Range Rover 2002 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da113/</url>
+        <price>79999</price>
+        <oldprice>87998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3032092054</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_515.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_516.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_517.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_518.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_519.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Land Rover</vendor>
+        <model>5HP24 Range Rover 2002</model>
+        <description>Контрактная АКПП 5HP24 для Land Rover Range Rover 2002 L322 M62B44. Оригинальный пробег 116864 км. Есть аукционный лист из Японии. Номер TGD000150</description>
+        <sales_notes>Пробег 116864 км, аукционный лист из Японии</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Land Rover</custom_label_1>
+        <custom_label_2>АКПП 5HP24</custom_label_2>
+        <custom_label_3>Контрактный</custom_label_3>
+        <param name="Кузов">L322</param>
+        <param name="Двигатель">M62B44</param>
+        <param name="Год">2002</param>
+        <param name="Номер по производителю">TGD000150</param>
+        <param name="Кросс-номера">7508713</param>
+        <param name="Пробег">116864 км</param>
+      </offer>
+      <offer id="63737604617337687401356093088713834293" available="true" type="vendor.model">
+        <name>АКПП 5HP24 Land Rover Range Rover 2002 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da113/</url>
+        <price>79999</price>
+        <oldprice>87998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3032092054</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_515.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_516.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_517.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_518.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_519.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Land Rover</vendor>
+        <model>5HP24 Range Rover 2002</model>
+        <description>Контрактная АКПП 5HP24 для Land Rover Range Rover 2002 L322 M62B44. Оригинальный пробег 116864 км. Есть аукционный лист из Японии. Номер TGD000150</description>
+        <sales_notes>Пробег 116864 км, аукционный лист из Японии</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Land Rover</custom_label_1>
+        <custom_label_2>АКПП 5HP24</custom_label_2>
+        <custom_label_3>Контрактный</custom_label_3>
+        <param name="Кузов">L322</param>
+        <param name="Двигатель">M62B44</param>
+        <param name="Год">2002</param>
+        <param name="Номер по производителю">TGD000150</param>
+        <param name="Кросс-номера">7508713</param>
+        <param name="Пробег">116864 км</param>
+      </offer>
+      <offer id="225198824957642622472509754886725875943" available="true" type="vendor.model">
+        <name>АКПП 5HP24 Land Rover Range Rover 2002 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da113/</url>
+        <price>79999</price>
+        <oldprice>87998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3032092054</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_515.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_516.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_517.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_518.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_519.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Land Rover</vendor>
+        <model>5HP24 Range Rover 2002</model>
+        <description>Контрактная АКПП 5HP24 для Land Rover Range Rover 2002 L322 M62B44. Оригинальный пробег 116864 км. Есть аукционный лист из Японии. Номер TGD000150</description>
+        <sales_notes>Пробег 116864 км, аукционный лист из Японии</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Land Rover</custom_label_1>
+        <custom_label_2>АКПП 5HP24</custom_label_2>
+        <custom_label_3>Контрактный</custom_label_3>
+        <param name="Кузов">L322</param>
+        <param name="Двигатель">M62B44</param>
+        <param name="Год">2002</param>
+        <param name="Номер по производителю">TGD000150</param>
+        <param name="Кросс-номера">7508713</param>
+        <param name="Пробег">116864 км</param>
+      </offer>
+      <offer id="86876791271062484362327065843802308741" available="true" type="vendor.model">
+        <name>АКПП 5HP24 Land Rover Range Rover 2002 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da113/</url>
+        <price>79999</price>
+        <oldprice>87998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3032092054</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_515.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_516.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_517.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_518.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_519.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Land Rover</vendor>
+        <model>5HP24 Range Rover 2002</model>
+        <description>Контрактная АКПП 5HP24 для Land Rover Range Rover 2002 L322 M62B44. Оригинальный пробег 116864 км. Есть аукционный лист из Японии. Номер TGD000150</description>
+        <sales_notes>Пробег 116864 км, аукционный лист из Японии</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Land Rover</custom_label_1>
+        <custom_label_2>АКПП 5HP24</custom_label_2>
+        <custom_label_3>Контрактный</custom_label_3>
+        <param name="Кузов">L322</param>
+        <param name="Двигатель">M62B44</param>
+        <param name="Год">2002</param>
+        <param name="Номер по производителю">TGD000150</param>
+        <param name="Кросс-номера">7508713</param>
+        <param name="Пробег">116864 км</param>
+      </offer>
+      <offer id="205606473677860133405280560885505350098" available="true" type="vendor.model">
+        <name>АКПП 6HP26X Land Rover Discovery 3 2006 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db080/</url>
+        <price>59999</price>
+        <oldprice>65998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3148955804</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_078.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_079.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_080.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_081.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_082.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Land Rover</vendor>
+        <model>6HP26X Discovery 3 2006</model>
+        <description>Контрактная АКПП 6HP26X для Land Rover Discovery 3 2006 L319 V6 4.0 EFI. Оригинальный пробег 153255 км. Есть аукционный лист из Японии. Артикул TGD500580</description>
+        <sales_notes>Пробег 153255 км, есть аукционный лист, оригинал</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Land Rover</custom_label_2>
+        <custom_label_3>АКПП 6HP26X</custom_label_3>
+        <param name="Кузов">L319</param>
+        <param name="Двигатель">V6 4.0 EFI (SOHC) (200AB)</param>
+        <param name="Год">2006</param>
+        <param name="Номер по производителю">TGD500580</param>
+        <param name="Пробег">153255 км</param>
+      </offer>
+      <offer id="229566837629364387202456641452378393783" available="true" type="vendor.model">
+        <name>АКПП 6HP26X Land Rover Discovery 3 2006 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db080/</url>
+        <price>59999</price>
+        <oldprice>65998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3148955804</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_078.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_079.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_080.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_081.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_082.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Land Rover</vendor>
+        <model>6HP26X Discovery 3 2006</model>
+        <description>Оригинальная АКПП 6HP26X с пробегом 153255 км для Land Rover Discovery 3 2006. Подтверждённый аукционный лист. Двигатель V6 4.0 EFI</description>
+        <sales_notes>Пробег 153255 км, есть аукционный лист, оригинал</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Land Rover</custom_label_2>
+        <custom_label_3>АКПП 6HP26X</custom_label_3>
+        <param name="Кузов">L319</param>
+        <param name="Двигатель">V6 4.0 EFI (SOHC) (200AB)</param>
+        <param name="Год">2006</param>
+        <param name="Номер по производителю">TGD500580</param>
+        <param name="Пробег">153255 км</param>
+      </offer>
+      <offer id="50152112166692392950088158501755617300" available="true" type="vendor.model">
+        <name>АКПП 6HP26X Land Rover Discovery 3 2006 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db080/</url>
+        <price>59999</price>
+        <oldprice>65998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3148955804</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_078.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_079.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_080.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_081.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_082.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Land Rover</vendor>
+        <model>6HP26X Discovery 3 2006</model>
+        <description>Контрактная коробка передач 6HP26X для Land Rover Discovery 3 2006. Пробег 153255 км. Номер TGD500580. Автомобиль привезён из Японии</description>
+        <sales_notes>Пробег 153255 км, есть аукционный лист, оригинал</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Land Rover</custom_label_2>
+        <custom_label_3>АКПП 6HP26X</custom_label_3>
+        <param name="Кузов">L319</param>
+        <param name="Двигатель">V6 4.0 EFI (SOHC) (200AB)</param>
+        <param name="Год">2006</param>
+        <param name="Номер по производителю">TGD500580</param>
+        <param name="Пробег">153255 км</param>
+      </offer>
+      <offer id="275398846056968959813056387236542501811" available="true" type="vendor.model">
+        <name>АКПП 6HP26X Land Rover Discovery 3 2006 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db080/</url>
+        <price>59999</price>
+        <oldprice>65998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3148955804</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_078.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_079.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_080.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_081.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_082.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Land Rover</vendor>
+        <model>6HP26X Discovery 3 2006</model>
+        <description>АКПП 6HP26X для Land Rover Discovery 3 2006 L319. Оригинальный пробег 153255 км. В наличии. Есть аукционный лист</description>
+        <sales_notes>Пробег 153255 км, есть аукционный лист, оригинал</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Land Rover</custom_label_2>
+        <custom_label_3>АКПП 6HP26X</custom_label_3>
+        <param name="Кузов">L319</param>
+        <param name="Двигатель">V6 4.0 EFI (SOHC) (200AB)</param>
+        <param name="Год">2006</param>
+        <param name="Номер по производителю">TGD500580</param>
+        <param name="Пробег">153255 км</param>
+      </offer>
+      <offer id="308283657156529474138953189731218198735" available="true" type="vendor.model">
+        <name>АКПП 6HP26X Land Rover Discovery 3 2006 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db080/</url>
+        <price>59999</price>
+        <oldprice>65998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3148955804</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_078.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_079.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_080.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_081.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_082.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Land Rover</vendor>
+        <model>6HP26X Discovery 3 2006</model>
+        <description>Б/у АКПП 6HP26X для Land Rover Discovery 3 2006. Пробег 153255 км. Артикул TGD500580. Документы подтверждают пробег</description>
+        <sales_notes>Пробег 153255 км, есть аукционный лист, оригинал</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Land Rover</custom_label_2>
+        <custom_label_3>АКПП 6HP26X</custom_label_3>
+        <param name="Кузов">L319</param>
+        <param name="Двигатель">V6 4.0 EFI (SOHC) (200AB)</param>
+        <param name="Год">2006</param>
+        <param name="Номер по производителю">TGD500580</param>
+        <param name="Пробег">153255 км</param>
+      </offer>
+      <offer id="127816048125018508997525130879319565822" available="true" type="vendor.model">
+        <name>АКПП 6HP26X Land Rover Discovery 3 2006 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db080/</url>
+        <price>59999</price>
+        <oldprice>65998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3148955804</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_078.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_079.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_080.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_081.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_082.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Land Rover</vendor>
+        <model>6HP26X Discovery 3 2006</model>
+        <description>Контрактная АКПП 6HP26X для Land Rover Discovery 3 2006. Пробег 153255 км. Аукционный лист в наличии. Двигатель V6 4.0</description>
+        <sales_notes>Пробег 153255 км, есть аукционный лист, оригинал</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Land Rover</custom_label_2>
+        <custom_label_3>АКПП 6HP26X</custom_label_3>
+        <param name="Кузов">L319</param>
+        <param name="Двигатель">V6 4.0 EFI (SOHC) (200AB)</param>
+        <param name="Год">2006</param>
+        <param name="Номер по производителю">TGD500580</param>
+        <param name="Пробег">153255 км</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_290054269016204147056293324902089374258">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da113/</url>
+        <name>АКПП 5HP24 Land Rover Range Rover 2002 c доставкой</name>
+        <description>Контрактная АКПП Land Rover RANGE ROVER (кузов L322, двс M62B44)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_515.jpg</picture>
+      </collection>
+      <collection id="col_219713730317225333605162989873325577870">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da113/</url>
+        <name>АКПП 5HP24 Land Rover Range Rover 2002 с гарантией</name>
+        <description>Контрактная АКПП Land Rover RANGE ROVER (кузов L322, двс M62B44)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_515.jpg</picture>
+      </collection>
+      <collection id="col_5867557590449802134503897530759436735">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da113/</url>
+        <name>АКПП 5HP24 Land Rover Range Rover 2002 заказать</name>
+        <description>Контрактная АКПП Land Rover RANGE ROVER (кузов L322, двс M62B44)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_515.jpg</picture>
+      </collection>
+      <collection id="col_63737604617337687401356093088713834293">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da113/</url>
+        <name>АКПП 5HP24 Land Rover Range Rover 2002 купить</name>
+        <description>Контрактная АКПП Land Rover RANGE ROVER (кузов L322, двс M62B44)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_515.jpg</picture>
+      </collection>
+      <collection id="col_225198824957642622472509754886725875943">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da113/</url>
+        <name>АКПП 5HP24 Land Rover Range Rover 2002 по низкой цене</name>
+        <description>Контрактная АКПП Land Rover RANGE ROVER (кузов L322, двс M62B44)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_515.jpg</picture>
+      </collection>
+      <collection id="col_86876791271062484362327065843802308741">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da113/</url>
+        <name>АКПП 5HP24 Land Rover Range Rover 2002 узнать стоимость</name>
+        <description>Контрактная АКПП Land Rover RANGE ROVER (кузов L322, двс M62B44)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_515.jpg</picture>
+      </collection>
+      <collection id="col_205606473677860133405280560885505350098">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db080/</url>
+        <name>АКПП 6HP26X Land Rover Discovery 3 2006 c доставкой</name>
+        <description>Контрактная АКПП Land Rover DISCOVERY 3 (кузов L319, двс V6 4.0 EFI (SOHC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_078.jpg</picture>
+      </collection>
+      <collection id="col_229566837629364387202456641452378393783">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db080/</url>
+        <name>АКПП 6HP26X Land Rover Discovery 3 2006 с гарантией</name>
+        <description>Контрактная АКПП Land Rover DISCOVERY 3 (кузов L319, двс V6 4.0 EFI (SOHC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_078.jpg</picture>
+      </collection>
+      <collection id="col_50152112166692392950088158501755617300">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db080/</url>
+        <name>АКПП 6HP26X Land Rover Discovery 3 2006 заказать</name>
+        <description>Контрактная АКПП Land Rover DISCOVERY 3 (кузов L319, двс V6 4.0 EFI (SOHC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_078.jpg</picture>
+      </collection>
+      <collection id="col_275398846056968959813056387236542501811">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db080/</url>
+        <name>АКПП 6HP26X Land Rover Discovery 3 2006 купить</name>
+        <description>Контрактная АКПП Land Rover DISCOVERY 3 (кузов L319, двс V6 4.0 EFI (SOHC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_078.jpg</picture>
+      </collection>
+      <collection id="col_308283657156529474138953189731218198735">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db080/</url>
+        <name>АКПП 6HP26X Land Rover Discovery 3 2006 по низкой цене</name>
+        <description>Контрактная АКПП Land Rover DISCOVERY 3 (кузов L319, двс V6 4.0 EFI (SOHC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_078.jpg</picture>
+      </collection>
+      <collection id="col_127816048125018508997525130879319565822">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db080/</url>
+        <name>АКПП 6HP26X Land Rover Discovery 3 2006 узнать стоимость</name>
+        <description>Контрактная АКПП Land Rover DISCOVERY 3 (кузов L319, двс V6 4.0 EFI (SOHC)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_078.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
